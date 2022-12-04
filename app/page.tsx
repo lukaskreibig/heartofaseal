@@ -9,6 +9,8 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js 13!</a>
         </h1>
 
+        GeilM Lalala
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>app/page.tsx</code>
